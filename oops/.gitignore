@@ -1,0 +1,28 @@
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.vcxproj.filters
+*.suo
+*.user
+*.sln.docstates
+
+# Build Folders
+x64/
+Debug/
+Release/
+bin/
+obj/
+
+# Cache and intermediate files
+*.VC.db
+*.VC.opendb
+ipch/
+*.pch
+*.pdb
+*.ilk
+*.log
+*.tlog
+
+# OS files
+Thumbs.db
+Desktop.ini
