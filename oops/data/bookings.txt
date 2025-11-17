@@ -1,0 +1,7 @@
+Booking ID: 1001
+Customer: 1000
+Pickup: fjen
+Dropoff: sde
+Fare: 6
+Status: Vehicle Assigned
+
